@@ -1,5 +1,5 @@
 <!--
-author: jockchou
+author: zhuoliang
 head: http://pingodata.qiniudn.com/jockchou-avatar.jpg
 date: 2015-07-31
 title: 欢迎使用GitBlog
