@@ -34,8 +34,8 @@ In the above data structure, the `Offset` field holds the low 16 bits of the pro
   		PIDT_DESCRIPTOR Descriptors;
 	} IDT, *PIDT;
 
-	static NTSTATUS HookIdtEntry(
- 	 	IN UCHAR DescriptorIndex,
+	static NTSTATUS HookIdtEntry( 
+		IN UCHAR DescriptorIndex,
   		IN ULONG_PTR NewHandler,
   		OUT PULONG_PTR OriginalHandler OPTIONAL)
 	{
