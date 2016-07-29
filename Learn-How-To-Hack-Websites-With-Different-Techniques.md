@@ -1,7 +1,7 @@
 <!--
 author: zhuoliang
 head: http://pingodata.qiniudn.com/jockchou-avatar.jpg
-date: 2016-07-26
+date: 2016-07-29
 title: Learn How To Hack Websites With Different Techniques
 tags: SQL Injection, Hack
 category: Hack
