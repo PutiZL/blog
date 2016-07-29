@@ -12,7 +12,7 @@ status: publish
 
 SQL Injection attacks are code injections that exploit the database layer of the application. This is most commonly the MySQL database, but there are techniques to carry out this attack in other databases such as Oracle. In this tutorial, i will be showing you the steps to carry out the attack on a MySQL Database.
 
-![SQL Injection](http://i.imgur.com/C8DaFIj.gif)
+![SQL Injection](img/sql_injection.gif)
 
 
 ### 1. Find A Page Vulnerable###
